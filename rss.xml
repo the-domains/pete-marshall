@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pete Marshall]]></title>
         <description><![CDATA[Pete Marshall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pete-marshall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:51:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 16:57:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pete-marshall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7685c11d-c0ae-41f5-a6cd-09745bc3c78e.png">]]></description>
+            <link>https://thegrid.ai/pete-marshall/9e3c1d35-212a-4224-bf39-b152202a35af/index.html</link>
+            <guid isPermaLink="false">9e3c1d35-212a-4224-bf39-b152202a35af</guid>
+            <pubDate>Mon, 07 Mar 2016 16:57:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41b7ff18-cd78-4a3f-8640-27e441bf590a.png">]]></description>
-            <link>undefinedc77e44fd-45b3-41c3-8363-8e982f377fa6/index.html</link>
+            <link>https://thegrid.ai/pete-marshall/c77e44fd-45b3-41c3-8363-8e982f377fa6/index.html</link>
             <guid isPermaLink="false">c77e44fd-45b3-41c3-8363-8e982f377fa6</guid>
             <pubDate>Mon, 07 Mar 2016 16:51:37 GMT</pubDate>
         </item>
