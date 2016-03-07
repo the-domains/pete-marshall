@@ -1,6 +1,6 @@
 name: Pete Marshall
 favicon: null
-layout_spectrum: 0.48664
+layout_spectrum: 0.99103
 typography_spectrum: 0.8321931890677661
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#8c8c8c'
     - '#6b383f'
     - '#0092bf'
-  brandStrength: 0.875
+  brandStrength: 0
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.75
